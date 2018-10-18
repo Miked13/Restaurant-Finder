@@ -12,3 +12,4 @@
     Mike: AJAX,
     Eric: User validation,
     Jeremy: visual layout
+* Link:https://miked13.github.io/Restaurant-Finder/

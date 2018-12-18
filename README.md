@@ -9,3 +9,6 @@ This is an application that is using **Zomato API** to locate restaurants from a
     https://developers.zomato.com/api#
     https://cloud.google.com/maps-platform/
     https://www.nutritionix.com/
+* Ajax
+* Bootstrap CSS
+* jQuery
